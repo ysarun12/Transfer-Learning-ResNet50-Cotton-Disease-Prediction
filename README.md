@@ -1,0 +1,1 @@
+# Transfer-Learning-ResNet50-Cotton-Disease-Prediction
